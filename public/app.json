@@ -1,0 +1,13 @@
+{
+    "startup_app": {
+        "name": "OpenFin",
+        "url": "http://localhost:5555/index.html",
+        "uuid": "openfin",
+        "autoShow": true,
+        "saveWindowState": false
+    },
+    "runtime": {
+        "arguments": "--enable-aggressive-domstorage-flushing",
+        "version": "stable"
+    }
+}
